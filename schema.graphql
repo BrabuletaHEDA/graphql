@@ -6,13 +6,16 @@ type Query {
     dogs: [Dog!]!
 }
 
+type Mutation {
+    signupUser(name: String!, email: String!, language: String, occupation: String): User!
+}
+
 type User {
     id: ID!
     name: String!
     email: String!
     language: String
-    profession: String
-    gender: String
+    occupation: String
 }
 
 type Dog {

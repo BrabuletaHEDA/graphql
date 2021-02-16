@@ -4,28 +4,28 @@ const USERS = [
         "name": "Casie",
         "email": "cmacarthur0@email.org",
         "language": "French",
-        "profession": "Research and Development",
+        "occupation": "Research and Development",
     },
     {
         "id": 2,
         "name": "Willette",
         "email": "wboyett1@email.com",
         "language": "Hindi",
-        "profession": "Training",
+        "occupation": "Training",
     },
     {
         "id": 3,
         "name": "Dulciana",
         "email": "dhugett2@email.com",
         "language": "Hiri Motu",
-        "profession": "Product Management",
+        "occupation": "Product Management",
     },
     {
         "id": 4,
         "name": "Dominique",
         "email": "dgarmanson3@email.com",
         "language": "Somali",
-        "profession": "Software Engineer",
+        "occupation": "Software Engineer",
     }
 ]
 
@@ -40,7 +40,7 @@ const DOGS = [
             "name": "Casie",
             "email": "cmacarthur0@email.org",
             "language": "French",
-            "profession": "Research and Development",
+            "occupation": "Research and Development",
         },
         "age": 4,
         "image": ""
@@ -55,7 +55,7 @@ const DOGS = [
             "name": "Willette",
             "email": "wboyett1@email.com",
             "language": "Hindi",
-            "profession": "Training",
+            "occupation": "Training",
         },
         "age": 2,
         "image": ""
@@ -70,7 +70,7 @@ const DOGS = [
             "name": "Dulciana",
             "email": "dhugett2@email.com",
             "language": "Hiri Motu",
-            "profession": "Product Management",
+            "occupation": "Product Management",
         },
         "age": 1,
         "image": ""
@@ -85,7 +85,7 @@ const DOGS = [
             "name": "Dominique",
             "email": "dgarmanson3@email.com",
             "language": "Somali",
-            "profession": "Software Engineer",
+            "occupation": "Software Engineer",
         },
         "age": 5,
         "image": ""

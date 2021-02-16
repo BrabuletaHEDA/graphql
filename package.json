@@ -5,7 +5,8 @@
   "author": "Brabuleta",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "uniqid": "^5.2.0"
   },
   "scripts": {
     "start": "node index"
